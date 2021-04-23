@@ -1,6 +1,6 @@
 ---
 title: "Helloworld"
-output: html_document
+
 ---
 
 ```
